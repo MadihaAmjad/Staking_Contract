@@ -151,4 +151,3 @@ event Unstaked(address indexed user, uint256 indexed amount);
 
 ---
 
-Would you like me to include a short **“How to Test in Remix”** section (with exact steps and example values)? That makes the README more beginner-friendly and helps you or others demo it easily.
